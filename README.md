@@ -1,6 +1,7 @@
 ### Discord-ServerStatsBot
 - My public repository for my custom server status bot for a discord server! 
 - Designed and Tested on Python 3.7.3 for Linux and Windows
+- If you would like a custom version of this bot please create a ticket in my [discord](https://discord.gg/kejhHFrA9t)!
 
 <p align="center">
   <img height="168" width="180" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827739980876087296/unknown.png" />
