@@ -1,8 +1,8 @@
 ### Discord-ServerStatsBot
-My public repository for my custom server status bot for an discord server! 
+My public repository for my custom server status bot for a discord server! 
 
 ---
 
-### ⚙️ Setup:
-- Test
-
+### Python[https://www.python.org/downloads/] Packages Required (Install with Pip[https://pip.pypa.io/en/stable/installing/]:
+- Discord[https://pypi.org/project/discord.py/]
+- Asyncio[https://pypi.org/project/asyncio/] (If not already installed)
