@@ -3,7 +3,7 @@
 - Designed and Tested on Python 3.7.3 for Linux and Windows
 
 <p align="center">
-<img height="168" width="180" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827739980876087296/unknown.png" />
+  <img height="168" width="180" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827739980876087296/unknown.png" />
 </p>
 
 ---
@@ -28,8 +28,9 @@
 ### Known Errors:
 Listed below are known errors that can not be solved due to discord limiations not software bugs:
 
-<img align="center" height="341" width="443" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827737318482903060/unknown.png" />
-
+<p align="center">
+  <img height="341" width="443" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827737318482903060/unknown.png" />
+</p>
 This also includes:
 - Task run errors.
 - Any other errors that have discord related errors.
