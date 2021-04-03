@@ -7,7 +7,7 @@
 - [Asyncio](https://pypi.org/project/asyncio/) (If not already installed)
 ---
 ### Setup
--Place "[main.py](https://github.com/WebTheDev/serverstatsbot/blob/main/main.py)" and "[config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" into a folder (this is too allow the bot to be able to find the "[config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" file.
+- Place "[main.py](https://github.com/WebTheDev/serverstatsbot/blob/main/main.py)" and "[config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" into a folder (this is too allow the bot to be able to find the "[config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" file.
 
 - Create a bot application at the [discord developer panel](https://discord.com/developers/applications) and add to your discord server.
 
