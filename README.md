@@ -16,3 +16,11 @@
 - Place your bot token and adjust the "[config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" to your liking.
 
 - Start the bot and watch the magic happen! (For windows right click on the main.py and click open, a cmd panel should appear. For linux, choose a starting resource that is best for your linux environment.) 
+---
+### Support
+If you need further support with setting up this bot or find unknown errors you would like to report. Please either ask for support in my [discord](https://discord.gg/kejhHFrA9t) or open a new [issue](https://github.com/WebTheDev/serverstatsbot/issues).
+
+### Known Errors:
+Listed below are known errors that can not be solved due to discord limiations not software bugs:
+
+<img align="center" height="324" width="215" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827737318482903060/unknown.png" />
