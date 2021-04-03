@@ -15,4 +15,4 @@
 
 - Place your bot token and adjust the "[config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" to your liking.
 
--Start the bot and watch the magic happen! (For windows right click on the main.py and click open, a cmd panel should appear. For linux, choose a starting resource that is best for your linux environment.) 
+- Start the bot and watch the magic happen! (For windows right click on the main.py and click open, a cmd panel should appear. For linux, choose a starting resource that is best for your linux environment.) 
