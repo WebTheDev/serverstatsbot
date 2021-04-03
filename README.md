@@ -7,4 +7,4 @@
 - [Asyncio](https://pypi.org/project/asyncio/) (If not already installed)
 ---
 ### Setup
-- Adjust the 
+- Place your bot token and adjust the "[Config.py](https://github.com/WebTheDev/serverstatsbot/blob/main/config.py)" to your liking.
