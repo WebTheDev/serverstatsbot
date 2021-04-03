@@ -23,4 +23,4 @@ If you need further support with setting up this bot or find unknown errors you 
 ### Known Errors:
 Listed below are known errors that can not be solved due to discord limiations not software bugs:
 
-<img align="center" height="443" width="341" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827737318482903060/unknown.png" />
+<img align="center" height="341" width="443" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827737318482903060/unknown.png" />
