@@ -153,7 +153,7 @@ async def checkbans():
         print('[ERROR][Line {}]:'.format(sys.exc_info()[-1].tb_lineno) + f'{str(e)}')
         print("----------------------------------------")
 
-
+#Events:#
 @bot.event
 async def on_ready():
     await bot.wait_until_ready()
@@ -310,7 +310,7 @@ async def on_message(message):
         print('[ERROR][Line {}]:'.format(sys.exc_info()[-1].tb_lineno) + f'{str(e)}')
         print("----------------------------------------")
 
-
+#Commands:#
 @bot.command()
 async def logout(ctx):
     try:
