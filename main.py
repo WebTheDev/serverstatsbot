@@ -1,3 +1,16 @@
+#---Terms of Service:---#
+#By use of the software that you are using released by me either custom or public, you are agreeing to the terms of use that I have outlined below:#
+
+#1. My software is subject to copyright, any attempt to duplicate without giving proper credit is prohibited.#
+#2. My released github software is public use and open-sourced, you are allowed to use my software for reference to design your own discord bots.#
+#3. I am not responsible for any damage that is done by my software to your computer or any discord server.#
+#4. Reselling any versions of my software for your own personal gain is prohibited.#
+#5. Changing any of the creator lines outlined in the main.py file is prohibited unless specifically allowed by WebTheDev.#
+#6. I am allowed to at any time to deny any attempt for support for my software.#
+#7. I am allowed to prohibit custom software at any time for any reason.# 
+
+
+#Imports:#
 import discord
 import asyncio
 import sys
@@ -7,14 +20,18 @@ from discord.ext.commands import Bot
 from discord.utils import get
 from config import token, CommandPrefix, activitytype, botstatusmessage, embedcolor, developerid, statscooldownamount, guildID, IDofChannelForServerMembers, NameofStatsChannel1, Role1CountCheckEnabled, IDofChannelForRole1Check, NameofRole1Channel, ServerMembersCheckEnabled, IDofRole1, BotCountCheckEnabled, IDofChannelForBotCheck, NameofBotChannel, BansCountCheckEnabled, IDofChannelForBansCheck, NameofBansChannel, Role2CountCheckEnabled, IDofChannelForRole2Check, IDofRole2, NameofRole2Channel
 
+#Bot Setup:#
 intents = discord.Intents.default()
 intents.members = True
 bot = commands.Bot(command_prefix=CommandPrefix, intents=intents)
 bot.remove_command('help')
 
+
+#Defs:#
 def filterOnlyBots(member):
     return member.bot
 
+#Loops:#
 @loop(seconds=statscooldownamount)
 async def checkallmembers():
     try:
@@ -152,7 +169,7 @@ async def on_ready():
     print (f"Bot Name: {bot.user.name}#{bot.user.discriminator}")
     print (f"Bot ID: {bot.user.id}")
     creator = bot.get_user(387002430602346499)
-    print(f'Creator: {creator}')
+    print(f'Creator: {creator}')    #DO NOT CHANGE#
     print ("Discord Version: " + discord.__version__)
     guild = bot.get_guild(guildID)
     print(f'Operating Guild Name: {guild}')

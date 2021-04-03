@@ -1,4 +1,5 @@
-#----ServerStats-Bot Config:----#
+#----Discord ServerStats-Bot Config:----#
+#----Made by: WebTheDev @ https://github.com/WebTheDev/ ----#
 
 #Main Config:#
 token = "INSERT BOT TOKEN HERE"                 #Insert the token to your discord bot here
