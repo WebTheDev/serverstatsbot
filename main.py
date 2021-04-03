@@ -331,4 +331,4 @@ async def logout(ctx):
 try:
     bot.run(f'{token}')
 except Exception as e:
-    print(f'[ERROR][LINE 214]: {e}')
+    print('[ERROR][Line {}]:'.format(sys.exc_info()[-1].tb_lineno) + f'{str(e)}')
