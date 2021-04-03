@@ -31,6 +31,7 @@ Listed below are known errors that can not be solved due to discord limiations n
 <p align="center">
   <img height="341" width="443" alt="" src="https://media.discordapp.net/attachments/812850453778792469/827737318482903060/unknown.png" />
 </p>
+
 This also includes:
 - Task run errors.
 - Any other errors that have discord related errors.
